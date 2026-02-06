@@ -128,4 +128,4 @@ api.registerTool({
 ## References
 
 - Use `/v1/agent/verify`, `/v1/agent/challenge/:id/complete`, and `/v1/agent/token-verify` as the canonical API calls.
-- See `/Users/michaelblythe/Documents/CAPTCHAS Core/captchas-human-verification/SKILL.md` for workflow guidance.
+- See `captchas-human-verification/SKILL.md` for workflow guidance.
